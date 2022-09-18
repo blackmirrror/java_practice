@@ -1,4 +1,4 @@
-package prac5.number5;
+package prac05.number5;
 
 import java.util.Scanner;
 

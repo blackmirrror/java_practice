@@ -1,4 +1,4 @@
-package prac7;
+package prac07;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package prac6;
+package prac06;
 
 import java.util.Comparator;
 

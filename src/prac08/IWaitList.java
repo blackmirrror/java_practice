@@ -1,4 +1,4 @@
-package prac8;
+package prac08;
 
 import java.util.Collection;
 

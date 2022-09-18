@@ -1,4 +1,4 @@
-package prac5.number7;
+package prac05.number7;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package prac6;
+package prac06;
 
 public class Student {
     private int id;
