@@ -1,4 +1,4 @@
-package prac11.number4;
+package prac05.number4;
 
 import java.util.HashMap;
 import java.util.Scanner;

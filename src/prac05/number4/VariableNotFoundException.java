@@ -1,4 +1,4 @@
-package prac11.number4;
+package prac05.number4;
 
 public class VariableNotFoundException extends IllegalArgumentException{
     VariableNotFoundException(String msg){

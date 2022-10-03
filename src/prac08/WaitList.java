@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class WaitList <E> implements IWaitList <E>{
-    // неограниченная по емкости двухсторонняя очередь, реализует интерфейсы Queue и Deque.
+    // неограниченная по емкости двухсторонняя очередь, реализует интерфейсы Queue и Deque, fifo.
     protected ConcurrentLinkedQueue<E> components;
 
     public WaitList(){

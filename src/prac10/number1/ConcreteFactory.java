@@ -8,7 +8,7 @@ public class ConcreteFactory implements ComplexAbstractFactory{
     }
 
     @Override
-    public Complex CreateComplex(int real, int image) {
+    public Complex createComplex(int real, int image) {
         Complex complex = new Complex(real, image);
         return complex;
     }
